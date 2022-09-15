@@ -6,7 +6,8 @@
     <meta name="description" content="">
     <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
     <meta name="generator" content="Jekyll v4.1.1">
-    <title>Jumbotron Template · Bootstrap</title>
+    <link rel="stylesheet" href="/application/views/css/style.css">
+    <title>Teknik Informatika</title>
 
     <link rel="canonical" href="https://getbootstrap.com/docs/4.5/examples/jumbotron/">
 
@@ -46,10 +47,7 @@
         <a class="nav-link" href="#" id="nav-home">Home <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#" id="nav-testimoni">Testimoni</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">Featured</a>
+        <a class="nav-link" href="#" id="nav-testimoni">Mata Kuliah</a>
       </li>
       <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Alumni</a>
@@ -74,12 +72,9 @@
 <main role="main" id="main">
 <!-- disini tempat result nav -->
   
-
+<h1>TESTTT</h1>
 </main>
 
-<footer class="container">
-  <p>&copy; Company 2017-2020</p>
-</footer>
 <script type="text/javascript" src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
 <script type="text/javascript" src="https://cdn.datatables.net/1.10.22/js/jquery.dataTables.min.js"></script>
 

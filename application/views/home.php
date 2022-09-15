@@ -1,9 +1,8 @@
-<!-- Main jumbotron for a primary marketing message or call to action -->
 <div class="jumbotron">
     <div class="container">
-      <h1 class="display-3">Hello, Selamat Datang!</h1>
-      <p>This is a template for a simple marketing or informational website. It includes a large callout called a jumbotron and three supporting pieces of content. Use it as a starting point to create something more unique.</p>
-      <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more &raquo;</a></p>
+      <h1 class="display-3">Teknik Informatika</h1>
+      <p>Teknik Informatika dibawah naungan Fakultas Ilmu Komputer Universitas Sriwijaya (Fasilkom Unsri) diresmikan oleh Rektor Unsri pada tanggal 1 Desember 2006.</p>
+      <p><a class="btn btn-primary btn-lg" href="#" role="button">Hubungi Kami &raquo;</a></p>
     </div>
   </div>
 
@@ -11,18 +10,18 @@
     <!-- Example row of columns -->
     <div class="row">
       <div class="col-md-4">
-        <h2>Heading</h2>
-        <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+        <h2>Beasiswa LPDP</h2>
+        <p style="text-align: justify;text-justify: inter-word;">Beasiswa Reguler diperuntukkan bagi Warga Negara Indonesia (WNI) yang telah menyelesaikan studi program diploma empat (D4) atau sarjana (S1)  untuk beasiswa magister;  Warga Negara Indonesia (WNI) yang telah menyelesaikan studi program magister (S2) untuk beasiswa doktor; atau Warga Negara Indonesia (WNI) yang telah menyelesaikan studi diploma empat (D4)/sarjana (S1) untuk beasiswa doktor luar negeri.</p>
+        <p><a class="btn btn-secondary" href="#" role="button">Klik untuk informasi selanjutnya&raquo;</a></p>
+      </div>
+      <div class="col-md-4">
+        <h2>Prospek Kerja</h2>
+        <p style="text-align: justify;text-justify: inter-word;">Pada dasarnya Alumni Teknik Informatika bisa kerja di bidang industri manapun, seperti yang diketahui jika saat ini era industri sudah mencapai era industri 4.0 dan sebentar lagi akan memasuki era industri 5.0, dimana teknologi yang digunakan membutuhkan tenaga IT profesional yang sangat banyak untuk membangun dan mengelolanya. Berikut pilihan karir bagi lulusan Teknik Informatika.</p>
         <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
       </div>
       <div class="col-md-4">
-        <h2>Heading</h2>
-        <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-        <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
-      </div>
-      <div class="col-md-4">
-        <h2>Heading</h2>
-        <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+        <h2>Loker IT</h2>
+        <p style="text-align: justify;text-justify: inter-word;">Info lengkap lowongan pekerjaan IT terbaru 2022. Dapatkan pekerjaan dengan gaji menarik sesuai bidang keahlianmu.</p>
         <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
       </div>
     </div>
